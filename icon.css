@@ -1,0 +1,174 @@
+/*domain*/
+.navbar{
+    background-color: #df691a;
+    box-shadow: none;
+    border: none;
+    font-size: 12px;
+    
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #ebebeb;
+}
+.jumbotron{
+    background-color: #b45718;
+    margin-bottom: 30px;
+    color: white;
+}
+.jumbotron p{
+    margin-bottom: 15px;
+    font-size: 23px;
+    font-weight: 200;
+}
+
+.well{
+    
+        min-height: 50px;
+        padding: 50px;
+        margin-bottom: 20px;
+        background-color: #4e5d6c;
+        border: 1px solid transparent;
+        border-radius: 0;
+        padding-top: 13px;
+        
+}
+
+
+
+.ALL{
+    background-color: #2b3e50;
+    
+}
+.panel {
+    margin-bottom: 21px;
+    background-color: #738eaa;
+    
+    border: 1px solid transparent;
+    border-radius: 0;
+    
+}
+
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+}
+.panel-body {
+    padding: 15px;
+}
+.panel-footer {
+    padding: 10px 15px;
+    background-color: #65788d;
+    
+    border-top: 1px solid transparent;
+   
+}
+
+#btn{
+    background-color: #df691a;
+}
+.allsections{
+    background-color: #2b3e50;
+}
+
+#cali{
+    margin-right: 100px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.feature-list {
+    list-style: none;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.col-lg-3 {
+    width: 25%;
+}
+.carousel-caption {
+    z-index: 10;
+    text-align: left;
+    top: 70px;
+    right: 10%;
+    left: 10%;
+    font-size: 22px;
+}
+.server-img {
+    width: 200%;
+    vertical-align: middle;
+    border: 0;
+    margin-right: 50px;
+}
+.marketing {
+    text-align: center;
+    
+    
+}
+
+.marketing .container {
+    width: 1170px;
+    
+
+}
+.col-md-4 {
+    width: 33.33333333%;
+    margin-top: 70px;
+    margin-bottom: 35px;
+}
+.glyphicon {
+    position: relative;
+    top: 3px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #738eaa;
+    border: 1px solid transparent;
+}
+.btn-default:hover {
+    background-color: #485563;
+}
+.btn-default {
+    background-color: #6682a2;
+}
+.btn-primary {
+    color: #ffffff;
+    background-color: #df691a;
+    border-color: transparent;
+}
+.domain-searchs{
+    text-align: center;
+    
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #555;
+    
+}  
+.col-xs-4{
+    
+    float: left;
+    
+}
+
+.btn-success{
+    background-color: green;
+    margin-top: 0px;
+}
+
